@@ -1,7 +1,7 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 536,
+    "stargazers_count": 540,
     "open_issues_count": 25,
     "forks_count": 151
   },
@@ -13,21 +13,21 @@
   },
   {
     "full_name": "hashicorp/nextjs-bundle-analysis",
-    "stargazers_count": 112,
-    "open_issues_count": 2,
+    "stargazers_count": 113,
+    "open_issues_count": 3,
     "forks_count": 4
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 76086,
-    "open_issues_count": 1362,
-    "forks_count": 15082
+    "stargazers_count": 76250,
+    "open_issues_count": 1363,
+    "forks_count": 15138
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
-    "stargazers_count": 393,
-    "open_issues_count": 2,
-    "forks_count": 61
+    "stargazers_count": 396,
+    "open_issues_count": 3,
+    "forks_count": 62
   },
   {
     "full_name": "Chronofit/chrono-android",
@@ -49,33 +49,33 @@
   },
   {
     "full_name": "ryanheise/just_audio",
-    "stargazers_count": 506,
+    "stargazers_count": 509,
     "open_issues_count": 108,
     "forks_count": 219
   },
   {
     "full_name": "ryanheise/audio_service",
-    "stargazers_count": 607,
-    "open_issues_count": 100,
-    "forks_count": 288
+    "stargazers_count": 609,
+    "open_issues_count": 101,
+    "forks_count": 289
   },
   {
     "full_name": "leerob/leerob.io",
-    "stargazers_count": 2555,
+    "stargazers_count": 2586,
     "open_issues_count": 9,
-    "forks_count": 503
+    "forks_count": 517
   },
   {
     "full_name": "brianegan/flutter_architecture_samples",
-    "stargazers_count": 7437,
+    "stargazers_count": 7441,
     "open_issues_count": 42,
-    "forks_count": 1474
+    "forks_count": 1476
   },
   {
     "full_name": "olmps/memo",
-    "stargazers_count": 1612,
-    "open_issues_count": 41,
-    "forks_count": 125
+    "stargazers_count": 1613,
+    "open_issues_count": 40,
+    "forks_count": 124
   },
   {
     "full_name": "aidancrowther/ASCIIPlay",
@@ -111,7 +111,7 @@
     "full_name": "joncardasis/ultimate-api",
     "stargazers_count": 43,
     "open_issues_count": 3,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "TheJoin95/covid19-market-waiting-times",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "ChrisDryden/Canadian-Tech-Internships-Summer-2022",
-    "stargazers_count": 648,
+    "stargazers_count": 652,
     "open_issues_count": 6,
     "forks_count": 46
   }
