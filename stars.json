@@ -1,8 +1,20 @@
 [
   {
+    "full_name": "brianlovin/briOS",
+    "stargazers_count": 885,
+    "open_issues_count": 1,
+    "forks_count": 87
+  },
+  {
+    "full_name": "dicebear/dicebear",
+    "stargazers_count": 3299,
+    "open_issues_count": 3,
+    "forks_count": 100
+  },
+  {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 544,
-    "open_issues_count": 25,
+    "stargazers_count": 546,
+    "open_issues_count": 26,
     "forks_count": 154
   },
   {
@@ -19,13 +31,13 @@
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 76471,
-    "open_issues_count": 1382,
-    "forks_count": 15208
+    "stargazers_count": 76596,
+    "open_issues_count": 1375,
+    "forks_count": 15232
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
-    "stargazers_count": 398,
+    "stargazers_count": 399,
     "open_issues_count": 4,
     "forks_count": 63
   },
@@ -49,37 +61,37 @@
   },
   {
     "full_name": "ryanheise/just_audio",
-    "stargazers_count": 512,
+    "stargazers_count": 513,
     "open_issues_count": 107,
-    "forks_count": 223
+    "forks_count": 224
   },
   {
     "full_name": "ryanheise/audio_service",
-    "stargazers_count": 611,
+    "stargazers_count": 612,
     "open_issues_count": 101,
-    "forks_count": 293
+    "forks_count": 294
   },
   {
     "full_name": "leerob/leerob.io",
-    "stargazers_count": 2628,
-    "open_issues_count": 12,
-    "forks_count": 527
+    "stargazers_count": 2655,
+    "open_issues_count": 9,
+    "forks_count": 533
   },
   {
     "full_name": "brianegan/flutter_architecture_samples",
-    "stargazers_count": 7454,
+    "stargazers_count": 7461,
     "open_issues_count": 42,
-    "forks_count": 1479
+    "forks_count": 1481
   },
   {
     "full_name": "olmps/memo",
-    "stargazers_count": 1615,
-    "open_issues_count": 40,
-    "forks_count": 125
+    "stargazers_count": 1616,
+    "open_issues_count": 42,
+    "forks_count": 127
   },
   {
     "full_name": "aidancrowther/ASCIIPlay",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 9,
     "forks_count": 4
   },
@@ -122,7 +134,7 @@
   {
     "full_name": "ChrisDryden/Canadian-Tech-Internships-Summer-2022",
     "stargazers_count": 656,
-    "open_issues_count": 7,
-    "forks_count": 47
+    "open_issues_count": 5,
+    "forks_count": 49
   }
 ]
