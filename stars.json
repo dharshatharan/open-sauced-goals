@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "SVD6/Personal-Site",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "CarletonComputerScienceSociety/merged",
     "stargazers_count": 2,
     "open_issues_count": 2,
@@ -25,33 +31,33 @@
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 53119,
-    "open_issues_count": 634,
-    "forks_count": 2547
+    "stargazers_count": 53201,
+    "open_issues_count": 633,
+    "forks_count": 2553
   },
   {
     "full_name": "sveltejs/kit",
-    "stargazers_count": 5694,
-    "open_issues_count": 328,
-    "forks_count": 460
+    "stargazers_count": 5755,
+    "open_issues_count": 341,
+    "forks_count": 465
   },
   {
     "full_name": "brianlovin/briOS",
-    "stargazers_count": 940,
+    "stargazers_count": 944,
     "open_issues_count": 2,
-    "forks_count": 92
+    "forks_count": 91
   },
   {
     "full_name": "dicebear/dicebear",
-    "stargazers_count": 3338,
+    "stargazers_count": 3344,
     "open_issues_count": 3,
     "forks_count": 105
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 551,
+    "stargazers_count": 555,
     "open_issues_count": 26,
-    "forks_count": 155
+    "forks_count": 156
   },
   {
     "full_name": "CTNicholas/tauque",
@@ -67,15 +73,15 @@
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 77255,
-    "open_issues_count": 1400,
-    "forks_count": 15392
+    "stargazers_count": 77491,
+    "open_issues_count": 1388,
+    "forks_count": 15447
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
-    "stargazers_count": 400,
+    "stargazers_count": 401,
     "open_issues_count": 4,
-    "forks_count": 63
+    "forks_count": 62
   },
   {
     "full_name": "Chronofit/chrono-android",
@@ -97,32 +103,32 @@
   },
   {
     "full_name": "ryanheise/just_audio",
-    "stargazers_count": 518,
-    "open_issues_count": 108,
-    "forks_count": 231
+    "stargazers_count": 520,
+    "open_issues_count": 110,
+    "forks_count": 232
   },
   {
     "full_name": "ryanheise/audio_service",
-    "stargazers_count": 615,
+    "stargazers_count": 617,
     "open_issues_count": 103,
     "forks_count": 299
   },
   {
     "full_name": "leerob/leerob.io",
-    "stargazers_count": 2713,
+    "stargazers_count": 2731,
     "open_issues_count": 10,
-    "forks_count": 546
+    "forks_count": 551
   },
   {
     "full_name": "brianegan/flutter_architecture_samples",
-    "stargazers_count": 7490,
+    "stargazers_count": 7498,
     "open_issues_count": 43,
-    "forks_count": 1490
+    "forks_count": 1493
   },
   {
     "full_name": "olmps/memo",
     "stargazers_count": 1620,
-    "open_issues_count": 36,
+    "open_issues_count": 37,
     "forks_count": 125
   },
   {
@@ -169,7 +175,7 @@
   },
   {
     "full_name": "ChrisDryden/Canadian-Tech-Internships-Summer-2022",
-    "stargazers_count": 666,
+    "stargazers_count": 667,
     "open_issues_count": 6,
     "forks_count": 50
   }
