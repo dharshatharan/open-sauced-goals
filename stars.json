@@ -13,9 +13,9 @@
   },
   {
     "full_name": "daviddao/awful-ai",
-    "stargazers_count": 5950,
+    "stargazers_count": 5954,
     "open_issues_count": 21,
-    "forks_count": 210
+    "forks_count": 211
   },
   {
     "full_name": "rockita/criticalML",
@@ -31,51 +31,51 @@
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 56573,
-    "open_issues_count": 698,
-    "forks_count": 2783
+    "stargazers_count": 56662,
+    "open_issues_count": 703,
+    "forks_count": 2784
   },
   {
     "full_name": "sveltejs/kit",
-    "stargazers_count": 7396,
-    "open_issues_count": 402,
-    "forks_count": 640
+    "stargazers_count": 7438,
+    "open_issues_count": 408,
+    "forks_count": 648
   },
   {
     "full_name": "brianlovin/briOS",
-    "stargazers_count": 1297,
+    "stargazers_count": 1311,
     "open_issues_count": 2,
-    "forks_count": 125
+    "forks_count": 126
   },
   {
     "full_name": "dicebear/dicebear",
-    "stargazers_count": 3794,
+    "stargazers_count": 3800,
     "open_issues_count": 2,
     "forks_count": 129
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 615,
+    "stargazers_count": 617,
     "open_issues_count": 27,
-    "forks_count": 200
+    "forks_count": 202
   },
   {
     "full_name": "CTNicholas/tauque",
     "stargazers_count": 7,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "hashicorp/nextjs-bundle-analysis",
-    "stargazers_count": 151,
+    "stargazers_count": 152,
     "open_issues_count": 4,
     "forks_count": 6
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 82972,
-    "open_issues_count": 1109,
-    "forks_count": 17260
+    "stargazers_count": 83178,
+    "open_issues_count": 1133,
+    "forks_count": 17344
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
@@ -103,33 +103,33 @@
   },
   {
     "full_name": "ryanheise/just_audio",
-    "stargazers_count": 597,
-    "open_issues_count": 119,
+    "stargazers_count": 600,
+    "open_issues_count": 121,
     "forks_count": 273
   },
   {
     "full_name": "ryanheise/audio_service",
-    "stargazers_count": 648,
+    "stargazers_count": 649,
     "open_issues_count": 115,
     "forks_count": 328
   },
   {
     "full_name": "leerob/leerob.io",
-    "stargazers_count": 3304,
+    "stargazers_count": 3332,
     "open_issues_count": 12,
-    "forks_count": 656
+    "forks_count": 662
   },
   {
     "full_name": "brianegan/flutter_architecture_samples",
-    "stargazers_count": 7745,
+    "stargazers_count": 7756,
     "open_issues_count": 45,
-    "forks_count": 1564
+    "forks_count": 1569
   },
   {
     "full_name": "olmps/memo",
     "stargazers_count": 1657,
     "open_issues_count": 35,
-    "forks_count": 128
+    "forks_count": 129
   },
   {
     "full_name": "aidancrowther/ASCIIPlay",
@@ -152,7 +152,7 @@
   {
     "full_name": "xinlc/react-native-typescript-template",
     "stargazers_count": 4,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 0
   },
   {
@@ -177,6 +177,6 @@
     "full_name": "ChrisDryden/Canadian-Tech-Internships-Summer-2022",
     "stargazers_count": 708,
     "open_issues_count": 8,
-    "forks_count": 53
+    "forks_count": 56
   }
 ]
